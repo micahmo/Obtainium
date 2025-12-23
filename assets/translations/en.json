@@ -401,5 +401,7 @@
     "apk": {
         "one": "{} APK",
         "other": "{} APKs"
-    }
+    },
+    "appAlreadyInstalled": "An app with the same URL is already installed",
+    "view": "View"
 }
